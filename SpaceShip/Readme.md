@@ -4,6 +4,6 @@ The premise of this project was to predict which passengers were transported out
 
 Data available at: https://www.kaggle.com/competitions/spaceship-titanic/data
 
-## Breaking Down the Data
+### Breaking Down the Data
 
 
